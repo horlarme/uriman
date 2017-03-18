@@ -11,5 +11,10 @@
             "name": "Lawal Oladipupo",
             "email": "lawboi4love@gmail.com"
         }
-    ]
+    ],
+    "autoload":{
+        "psr-4" : {
+            "uriman\\": "src"
+        }
+    }
 }
