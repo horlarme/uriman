@@ -1,0 +1,15 @@
+{
+    "name": "horlarme/uriman",
+    "description": "This library takes good care of URI or URL of a page.",
+    "type": "library",
+    "require": {
+        "php": ">=5.0"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Lawal Oladipupo",
+            "email": "lawboi4love@gmail.com"
+        }
+    ]
+}
